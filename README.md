@@ -1,7 +1,7 @@
 # 🧬 Residental Website | by R4XN
 
 <div align="center">
-  <img src="https://github.com/um-xair/Food-Website/blob/main/assets/Food%20Website.png"/>
+  <img src="https://github.com/um-xair/Residental-Website/blob/main/assets/Residental%20Website.png"/>
 </div>
 
 ## About 
