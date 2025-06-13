@@ -9,7 +9,7 @@ Welcome to R4XN Residential — your gateway to modern living and timeless comfo
 Discover a curated collection of homes designed for every lifestyle — from sleek urban apartments to serene family retreats. Whether you're searching for your first home, upgrading your space, or investing in your future, our platform makes it easy to explore, compare, and fall in love with properties that fit your vision. Find your perfect place — all from the comfort of your screen.
 
 ## Live Demo  
-Check it out here: [Food Website](https://r4xn.netlify.app/design/estate.html) 
+Check it out here: [Estate Website](https://r4xn.netlify.app/design/estate.html) 
 
 ## Features  
 - 🗺️ Wide range of listings, from city condos to suburban dream homes
