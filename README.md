@@ -1,4 +1,4 @@
-# 🧬 Residental Website | by R4XN
+# 🧬 Residential Website | by R4XN
 
 <div align="center">
   <img src="https://github.com/um-xair/Residental-Website/blob/main/assets/Residental%20Website.png"/>
